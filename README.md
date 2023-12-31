@@ -2,6 +2,8 @@
 
 Welcome to Voxel-Design!
 
+Voxel is a simple and clear design guideline that can help developers quickly create user interfaces that adhere to the Minecraft style.  By following Voxel's basic principles and guidelines, developers can easily create user interfaces that are easy to use and customize.
+
 [Document](/docs/main.md) | [Github](https://github.com/ArksTeam/Voxel-Design/) | [Contact us](mailto:support@awaish.link)
 
 ```
