@@ -2,7 +2,7 @@
 
 Welcome to Voxel-Design!
 
-[Document](/docs/std.md) | [Github](https://github.com/ArksTeam/Voxel-Design/) | [Contact us](mailto:support@awaish.link)
+[Document](/docs/main.md) | [Github](https://github.com/ArksTeam/Voxel-Design/) | [Contact us](mailto:support@awaish.link)
 
 ```
                                                                                                                    
